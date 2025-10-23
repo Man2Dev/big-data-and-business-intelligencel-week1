@@ -1,5 +1,6 @@
 # ignore data files and pptx format of slides
 data/
+data/peoplesun_hh_anon.csv
 slides/*.pptx
 
 # Byte-compiled / optimized / DLL files
